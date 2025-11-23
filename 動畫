@@ -1,4 +1,4 @@
-from manim import *
+from manim *
 
 class ShapeTransformation(Scene):
     def construct(self):
